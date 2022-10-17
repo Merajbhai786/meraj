@@ -1,2 +1,2 @@
-# meraj
-this is a python code 
+# this is meraj's code of python 
+print("this is meraj's code ")
